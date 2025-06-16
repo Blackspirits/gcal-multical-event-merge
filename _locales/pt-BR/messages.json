@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Mesclador de Eventos para o Google Calendar™",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "Uma extensão do Chrome que mescla visualmente eventos idênticos de vários calendários do Google em um só.",
+    "description": "The description of the application, displayed in the web store."
+  }
+}
